@@ -1,5 +1,5 @@
 import java.util.*;
-public class DAY2SKIPPING
+public class SKIPPING
 {
     public static void main(String[] args) {
         try
