@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DAY3FACTORIAL {
+public class FACTORIAL {
     public static boolean checkNum(String n){
         try{
             int x = Integer.parseInt(n);
