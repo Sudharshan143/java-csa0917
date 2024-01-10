@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DAY2SORTLISTINAANDD {
+public class SORTLISTINAANDD {
     public static void main(String[] Args){
         Scanner sc = new Scanner(System.in);
 
