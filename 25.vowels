@@ -1,6 +1,5 @@
 import java.util.*;
-
-public class DAY4NUMBEROFVOWELS {
+public class NUMBEROFVOWELS {
     public static void main(String[] Args){
         Scanner sc = new Scanner(System.in);
 
