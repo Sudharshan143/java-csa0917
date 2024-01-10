@@ -1,6 +1,6 @@
 import java.io.*;
         import java.util.*;
-public class DAY1RIGHTANGLELEFT
+public class RIGHTANGLELEFT
 {
     public static void main(String[] args)
     {
