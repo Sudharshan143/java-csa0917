@@ -1,6 +1,6 @@
 import java.util.Scanner;
         import java.io.*;
-public class DAY2EVENSUMOFFIBONACCISERIES {
+public class EVENSUMOFFIBONACCISERIES {
     public static void main(String[] args){
         int my_input, i, sum;
         System.out.println("Required packages have been imported");
